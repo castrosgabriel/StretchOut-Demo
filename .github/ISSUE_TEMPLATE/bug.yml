@@ -1,0 +1,28 @@
+name: Relatar um bug
+description: Conte o que aconteceu durante o playtest da demo.
+title: "[Demo] "
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Versão da demo
+      placeholder: "1.0.0"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: O que aconteceu?
+      description: Conte também o que você esperava que acontecesse. Pode anexar imagens ou vídeos.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Como repetir?
+      description: Onde estava e o que fez antes do problema? Aconteceu uma vez ou sempre?
+  - type: textarea
+    id: hardware
+    attributes:
+      label: PC e controles
+      description: Windows, processador, placa de vídeo, RAM e se usou controle ou teclado/mouse.
