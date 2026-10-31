@@ -6,8 +6,8 @@ Um jogo de plataforma 3D sobre a Mocca, uma cachorrinha salsicha que consegue se
 
 **[Baixe a versão mais recente](https://github.com/castrosgabriel/StretchOut-Demo/releases/latest)** — Windows 10/11 de 64 bits.
 
-- **Instalador recomendado:** `StretchOut-Demo-1.0.0-Setup.exe`. Abra o arquivo, escolha a pasta e conclua a instalação. Depois, use o atalho **StretchOut Demo** no menu Iniciar ou na área de trabalho.
-- **Alternativa portátil:** `StretchOut-Demo-1.0.0-Win64.zip`. Extraia tudo e abra `Windows/MoccaDreamsDemo.exe`. Mantenha as pastas extraídas juntas.
+- **Instalador recomendado:** `StretchOut-Demo-1.0.1-Setup.exe`. Abra o arquivo, escolha a pasta e conclua a instalação. Depois, use o atalho **StretchOut Demo** no menu Iniciar ou na área de trabalho.
+- **Alternativa portátil:** `StretchOut-Demo-1.0.1-Win64.zip`. Extraia tudo e abra `Windows/MoccaDreamsDemo.exe`. Mantenha as pastas extraídas juntas.
 - O instalador inclui o Microsoft Visual C++ necessário e pede permissão do Windows apenas se precisar instalar esse componente.
 - O instalador ainda não tem certificado de assinatura digital; o Windows pode mostrar um aviso de aplicativo não reconhecido. Os arquivos oficiais estão nos downloads deste repositório. Não desative o antivírus.
 - Os itens automáticos **Source code (zip/tar.gz)** são os documentos deste repositório. Para jogar, baixe o instalador ou o ZIP da demo.
